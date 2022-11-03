@@ -1,2 +1,2 @@
-# Estudos
+# Anotações de estudos e projetos
 Repositório de estudos, projetos de bootcamp...
